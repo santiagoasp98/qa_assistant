@@ -1,0 +1,45 @@
+RAG                                     ✅
+------------------------------------------
+El sistema debe cargar el dataset que   ✅
+se indica en capítulo de “Recursos”
+------------------------------------------
+Debe indexar la información para        ✅
+permitir una búsqueda eficiente.
+------------------------------------------
+Al recibir una pregunta, debe buscar 
+información relevante en los documentos ✅
+y combinarla con un modelo de lenguaje
+para generar la respuesta.
+------------------------------------------
+Vectorización y embeddings              ✅
+------------------------------------------
+Uso de Pip                              ✅
+------------------------------------------
+Uso de venv                             ✅
+------------------------------------------
+Uso de archivo de requirementes.txt     ✅
+------------------------------------------
+Carga de variables con python-dotenv    ✅
+------------------------------------------
+Git                                     ✅
+------------------------------------------
+Modelo de lenguaje: OpenAI , modelo     ✅
+gpt-4o
+------------------------------------------
+Base de datos vectorial: ChromaDB en    ✅
+memoria
+------------------------------------------
+Embeddings:  HuggingFaceEmbeddings      ✅
+------------------------------------------
+Frameworks de IA: LlamaIndex            ✅
+------------------------------------------
+Frontend: Gradio                        ✅
+------------------------------------------
+Celdas markdown donde se explique lo    ✅
+que se está realizando
+------------------------------------------
+Documento con ejemplos de consultas y   ❌
+respuestas generadas.
+------------------------------------------
+Diagrama alto nivel como introducción   ✅
+a la solución
