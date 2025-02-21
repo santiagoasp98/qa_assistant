@@ -1,4 +1,47 @@
-# -------------------------------------------- #
-# Ejemplos de consultas y respuestas generadas #
-# -------------------------------------------- #
+# ----------------------------------------------------------------- #
+#           Ejemplos de consultas y respuestas generadas            #
+# ----------------------------------------------------------------- #
 
+Question: Which magazine was started first Arthur's Magazine or 
+First for Women?
+> Answer: Arthur's Magazine was started first.
+
+# ----------------------------------------------------------------- #
+
+Question: What nationality was James Henry Miller's wife?
+> Answer: The context does not provide information about the 
+nationality of James Henry Miller's wife.
+
+# ----------------------------------------------------------------- #
+
+Question: How old is the female main protagonist of Catching Fire?
+> Answer: The female main protagonist of "Catching Fire," Katniss 
+Everdeen, is 17 years old.
+
+# ----------------------------------------------------------------- #
+
+Question: The 337th Flight Test Squadron (337 FLTS) was most 
+recently part of the 46th Test Wing and based at McClellan Air 
+Force Base, a former United States Air Force base located in the 
+North Highlands area of Sacramento County, in which US state?
+> Answer: California
+
+# ----------------------------------------------------------------- #
+
+Question: Which band has more members, Saint Motel or Curve?
+> Answer: Saint Motel has more members. They consist of four 
+members, while Curve was a duo with two members.
+
+# ----------------------------------------------------------------- #
+
+Question: El Nuevo Cojo and Golf Magazine are both special interest 
+publications but which one is owned by Time Inc?
+> Answer: Golf Magazine is owned by Time Inc.
+
+# ----------------------------------------------------------------- #
+
+Question: What year was the winner of the 2016 Marrakesh ePrix born?
+> Answer: The winner of the 2016 Marrakesh ePrix, Sébastien Buemi, 
+was born in 1988.
+
+# ----------------------------------------------------------------- #

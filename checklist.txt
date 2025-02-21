@@ -38,7 +38,7 @@ Frontend: Gradio                        ✅
 Celdas markdown donde se explique lo    ✅
 que se está realizando
 ------------------------------------------
-Documento con ejemplos de consultas y   ❌
+Documento con ejemplos de consultas y   ✅
 respuestas generadas.
 ------------------------------------------
 Diagrama alto nivel como introducción   ✅
